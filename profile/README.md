@@ -4,6 +4,14 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://packagist.org/packages/phplrt/phplrt"><img src="http://poser.pugx.org/phplrt/phplrt/require/php?style=for-the-badge" alt="PHP 7.1+"></a>
+    <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/version?style=for-the-badge" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/v/unstable?style=for-the-badge" alt="Latest Unstable Version"></a>
+    <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/downloads?style=for-the-badge" alt="Total Downloads"></a>
+    <a href="https://raw.githubusercontent.com/phplrt/phplrt/master/LICENSE.md"><img src="https://poser.pugx.org/phplrt/phplrt/license?style=for-the-badge" alt="License MIT"></a>
+</p>
+
 ## Introduction
 
 The phplrt is a set of tools for programming languages recognition. The library
@@ -21,23 +29,23 @@ text analysis and so on.
 
 <center>
 
-| Library                                                                     | Version                                                                                                                      | Status                                                                             |
-|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [phplrt/phplrt](https://github.com/phplrt/phplrt)                           | ![version](https://img.shields.io/github/v/tag/phplrt/phplrt?style=flat-square&logo=php&label=&logoColor=white)              | ![status](https://github.com/phplrt/phplrt/workflows/build/badge.svg)              |
-| [phplrt/compiler](https://github.com/phplrt/compiler)                       | ![version](https://img.shields.io/github/v/tag/phplrt/compiler?style=flat-square&logo=php&label=&logoColor=white)            | ![status](https://github.com/phplrt/compiler/workflows/build/badge.svg)            |
-| [phplrt/exception](https://github.com/phplrt/exception)                     | ![version](https://img.shields.io/github/v/tag/phplrt/exception?style=flat-square&logo=php&label=&logoColor=white)           | ![status](https://github.com/phplrt/exception/workflows/build/badge.svg)           |
-| [phplrt/grammar](https://github.com/phplrt/grammar)                         | ![version](https://img.shields.io/github/v/tag/phplrt/grammar?style=flat-square&logo=php&label=&logoColor=white)             | ![status](https://github.com/phplrt/grammar/workflows/build/badge.svg)             |
-| [phplrt/lexer](https://github.com/phplrt/lexer)                             | ![version](https://img.shields.io/github/v/tag/phplrt/lexer?style=flat-square&logo=php&label=&logoColor=white)               | ![status](https://github.com/phplrt/lexer/workflows/build/badge.svg)               |
-| [phplrt/parser](https://github.com/phplrt/parser)                           | ![version](https://img.shields.io/github/v/tag/phplrt/parser?style=flat-square&logo=php&label=&logoColor=white)              | ![status](https://github.com/phplrt/parser/workflows/build/badge.svg)              |
-| [phplrt/parser](https://github.com/phplrt/position)                         | ![version](https://img.shields.io/github/v/tag/phplrt/position?style=flat-square&logo=php&label=&logoColor=white)            | ![status](https://github.com/phplrt/position/workflows/build/badge.svg)            |
-| [phplrt/parser](https://github.com/phplrt/source)                           | ![version](https://img.shields.io/github/v/tag/phplrt/source?style=flat-square&logo=php&label=&logoColor=white)              | ![status](https://github.com/phplrt/source/workflows/build/badge.svg)              |
-| [phplrt/visitor](https://github.com/phplrt/visitor)                         | ![version](https://img.shields.io/github/v/tag/phplrt/visitor?style=flat-square&logo=php&label=&logoColor=white)             | ![status](https://github.com/phplrt/visitor/workflows/build/badge.svg)             |
-| [phplrt/ast-contracts](https://github.com/phplrt/ast-contracts)             | ![version](https://img.shields.io/github/v/tag/phplrt/ast-contracts?style=flat-square&logo=php&label=&logoColor=white)       | ![status](https://github.com/phplrt/ast-contracts/workflows/build/badge.svg)       |
-| [phplrt/exception-contracts](https://github.com/phplrt/exception-contracts) | ![version](https://img.shields.io/github/v/tag/phplrt/exception-contracts?style=flat-square&logo=php&label=&logoColor=white) | ![status](https://github.com/phplrt/exception-contracts/workflows/build/badge.svg) |
-| [phplrt/grammar-contracts](https://github.com/phplrt/grammar-contracts)     | ![version](https://img.shields.io/github/v/tag/phplrt/grammar-contracts?style=flat-square&logo=php&label=&logoColor=white)   | ![status](https://github.com/phplrt/grammar-contracts/workflows/build/badge.svg)   |
-| [phplrt/lexer-contracts](https://github.com/phplrt/lexer-contracts)         | ![version](https://img.shields.io/github/v/tag/phplrt/lexer-contracts?style=flat-square&logo=php&label=&logoColor=white)     | ![status](https://github.com/phplrt/lexer-contracts/workflows/build/badge.svg)     |
-| [phplrt/parser-contracts](https://github.com/phplrt/parser-contracts)       | ![version](https://img.shields.io/github/v/tag/phplrt/parser-contracts?style=flat-square&logo=php&label=&logoColor=white)    | ![status](https://github.com/phplrt/parser-contracts/workflows/build/badge.svg)    |
-| [phplrt/position-contracts](https://github.com/phplrt/position-contracts)   | ![version](https://img.shields.io/github/v/tag/phplrt/position-contracts?style=flat-square&logo=php&label=&logoColor=white)  | ![status](https://github.com/phplrt/position-contracts/workflows/build/badge.svg)  |
+| Library                                                                     | Status                                                                             |
+|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [phplrt/phplrt](https://github.com/phplrt/phplrt)                           | ![status](https://github.com/phplrt/phplrt/workflows/build/badge.svg)              |
+| [phplrt/compiler](https://github.com/phplrt/compiler)                       | ![status](https://github.com/phplrt/compiler/workflows/build/badge.svg)            |
+| [phplrt/exception](https://github.com/phplrt/exception)                     | ![status](https://github.com/phplrt/exception/workflows/build/badge.svg)           |
+| [phplrt/grammar](https://github.com/phplrt/grammar)                         | ![status](https://github.com/phplrt/grammar/workflows/build/badge.svg)             |
+| [phplrt/lexer](https://github.com/phplrt/lexer)                             | ![status](https://github.com/phplrt/lexer/workflows/build/badge.svg)               |
+| [phplrt/parser](https://github.com/phplrt/parser)                           | ![status](https://github.com/phplrt/parser/workflows/build/badge.svg)              |
+| [phplrt/parser](https://github.com/phplrt/position)                         | ![status](https://github.com/phplrt/position/workflows/build/badge.svg)            |
+| [phplrt/parser](https://github.com/phplrt/source)                           | ![status](https://github.com/phplrt/source/workflows/build/badge.svg)              |
+| [phplrt/visitor](https://github.com/phplrt/visitor)                         | ![status](https://github.com/phplrt/visitor/workflows/build/badge.svg)             |
+| [phplrt/ast-contracts](https://github.com/phplrt/ast-contracts)             | ![status](https://github.com/phplrt/ast-contracts/workflows/build/badge.svg)       |
+| [phplrt/exception-contracts](https://github.com/phplrt/exception-contracts) | ![status](https://github.com/phplrt/exception-contracts/workflows/build/badge.svg) |
+| [phplrt/grammar-contracts](https://github.com/phplrt/grammar-contracts)     | ![status](https://github.com/phplrt/grammar-contracts/workflows/build/badge.svg)   |
+| [phplrt/lexer-contracts](https://github.com/phplrt/lexer-contracts)         | ![status](https://github.com/phplrt/lexer-contracts/workflows/build/badge.svg)     |
+| [phplrt/parser-contracts](https://github.com/phplrt/parser-contracts)       | ![status](https://github.com/phplrt/parser-contracts/workflows/build/badge.svg)    |
+| [phplrt/position-contracts](https://github.com/phplrt/position-contracts)   | ![status](https://github.com/phplrt/position-contracts/workflows/build/badge.svg)  |
 
 </center>
 
