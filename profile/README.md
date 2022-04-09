@@ -33,7 +33,6 @@ text analysis and so on.
 |---------------------------------------------------------|------------------------------------------------------------------------------------|
 | [phplrt/compiler](https://github.com/phplrt/compiler)   | ![status](https://github.com/phplrt/compiler/workflows/build/badge.svg)            |
 | [phplrt/exception](https://github.com/phplrt/exception) | ![status](https://github.com/phplrt/exception/workflows/build/badge.svg)           |
-| [phplrt/grammar](https://github.com/phplrt/grammar)     | ![status](https://github.com/phplrt/grammar/workflows/build/badge.svg)             |
 | [phplrt/lexer](https://github.com/phplrt/lexer)         | ![status](https://github.com/phplrt/lexer/workflows/build/badge.svg)               |
 | [phplrt/parser](https://github.com/phplrt/parser)       | ![status](https://github.com/phplrt/parser/workflows/build/badge.svg)              |
 | [phplrt/position](https://github.com/phplrt/position)   | ![status](https://github.com/phplrt/position/workflows/build/badge.svg)            |
