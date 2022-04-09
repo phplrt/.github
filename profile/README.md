@@ -12,26 +12,25 @@
     <a href="https://raw.githubusercontent.com/phplrt/phplrt/master/LICENSE.md"><img src="https://poser.pugx.org/phplrt/phplrt/license?style=for-the-badge" alt="License MIT"></a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/phplrt/phplrt/actions"><img src="https://github.com/phplrt/phplrt/workflows/build/badge.svg"></a>
+</p>
+
 ## Introduction
 
 The phplrt is a set of tools for programming languages recognition. The library
 provides lexer, parser, grammar compiler, library for working with errors,
 text analysis and so on.
 
-### Resources
-
 - [Documentation](https://phplrt.org/docs)
 - [Repository](https://github.com/phplrt/phplrt)
     - [Issues](https://github.com/phplrt/phplrt/issues)
     - [Pull Requests](https://github.com/phplrt/phplrt/pulls)
 
-## CI Status
-
-<center>
+### Packages CI Status
 
 | Library                                                                     | Status                                                                             |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [phplrt/phplrt](https://github.com/phplrt/phplrt)                           | ![status](https://github.com/phplrt/phplrt/workflows/build/badge.svg)              |
 | [phplrt/compiler](https://github.com/phplrt/compiler)                       | ![status](https://github.com/phplrt/compiler/workflows/build/badge.svg)            |
 | [phplrt/exception](https://github.com/phplrt/exception)                     | ![status](https://github.com/phplrt/exception/workflows/build/badge.svg)           |
 | [phplrt/grammar](https://github.com/phplrt/grammar)                         | ![status](https://github.com/phplrt/grammar/workflows/build/badge.svg)             |
@@ -40,14 +39,6 @@ text analysis and so on.
 | [phplrt/parser](https://github.com/phplrt/position)                         | ![status](https://github.com/phplrt/position/workflows/build/badge.svg)            |
 | [phplrt/parser](https://github.com/phplrt/source)                           | ![status](https://github.com/phplrt/source/workflows/build/badge.svg)              |
 | [phplrt/visitor](https://github.com/phplrt/visitor)                         | ![status](https://github.com/phplrt/visitor/workflows/build/badge.svg)             |
-| [phplrt/ast-contracts](https://github.com/phplrt/ast-contracts)             | ![status](https://github.com/phplrt/ast-contracts/workflows/build/badge.svg)       |
-| [phplrt/exception-contracts](https://github.com/phplrt/exception-contracts) | ![status](https://github.com/phplrt/exception-contracts/workflows/build/badge.svg) |
-| [phplrt/grammar-contracts](https://github.com/phplrt/grammar-contracts)     | ![status](https://github.com/phplrt/grammar-contracts/workflows/build/badge.svg)   |
-| [phplrt/lexer-contracts](https://github.com/phplrt/lexer-contracts)         | ![status](https://github.com/phplrt/lexer-contracts/workflows/build/badge.svg)     |
-| [phplrt/parser-contracts](https://github.com/phplrt/parser-contracts)       | ![status](https://github.com/phplrt/parser-contracts/workflows/build/badge.svg)    |
-| [phplrt/position-contracts](https://github.com/phplrt/position-contracts)   | ![status](https://github.com/phplrt/position-contracts/workflows/build/badge.svg)  |
-
-</center>
 
 ## Thanks To
 
