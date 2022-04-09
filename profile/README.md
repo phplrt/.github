@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://phplrt.org/">
-        <img src="https://avatars.githubusercontent.com/u/49816277?s=256&v=4" width="256" alt="Phplrt" />
+        <img src="https://avatars.githubusercontent.com/u/49816277?s=256&v=4" width="128" alt="Phplrt" />
     </a>
 </p>
 
