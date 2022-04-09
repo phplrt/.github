@@ -31,6 +31,7 @@ text analysis and so on.
 
 | Library                                                 | Status                                                                                                                  |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| [phplrt/buffer](https://github.com/phplrt/buffer)       | [![status](https://github.com/phplrt/buffer/workflows/build/badge.svg)](https://github.com/phplrt/buffer/actions)       |
 | [phplrt/compiler](https://github.com/phplrt/compiler)   | [![status](https://github.com/phplrt/compiler/workflows/build/badge.svg)](https://github.com/phplrt/compiler/actions)   |
 | [phplrt/exception](https://github.com/phplrt/exception) | [![status](https://github.com/phplrt/exception/workflows/build/badge.svg)](https://github.com/phplrt/exception/actions) |
 | [phplrt/lexer](https://github.com/phplrt/lexer)         | [![status](https://github.com/phplrt/lexer/workflows/build/badge.svg)](https://github.com/phplrt/lexer/actions)         |
