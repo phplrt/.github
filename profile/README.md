@@ -12,10 +12,6 @@
     <a href="https://raw.githubusercontent.com/phplrt/phplrt/master/LICENSE.md"><img src="https://poser.pugx.org/phplrt/phplrt/license?style=for-the-badge" alt="License MIT"></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/phplrt/phplrt/actions"><img src="https://github.com/phplrt/phplrt/workflows/build/badge.svg?branch=3.x"></a>
-</p>
-
 ## Introduction
 
 The phplrt is a set of tools for programming languages recognition. The library
