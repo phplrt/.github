@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/phplrt/phplrt/actions"><img src="https://github.com/phplrt/phplrt/workflows/build/badge.svg"></a>
+    <a href="https://github.com/phplrt/phplrt/actions"><img src="https://github.com/phplrt/phplrt/workflows/build/badge.svg?branch=3.x"></a>
 </p>
 
 ## Introduction
@@ -26,19 +26,6 @@ text analysis and so on.
 - [Repository](https://github.com/phplrt/phplrt)
     - [Issues](https://github.com/phplrt/phplrt/issues)
     - [Pull Requests](https://github.com/phplrt/phplrt/pulls)
-
-### Packages CI Status
-
-| Library                                                 | Status                                                                                                                  |
-|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [phplrt/buffer](https://github.com/phplrt/buffer)       | [![status](https://github.com/phplrt/buffer/workflows/build/badge.svg)](https://github.com/phplrt/buffer/actions)       |
-| [phplrt/compiler](https://github.com/phplrt/compiler)   | [![status](https://github.com/phplrt/compiler/workflows/build/badge.svg)](https://github.com/phplrt/compiler/actions)   |
-| [phplrt/exception](https://github.com/phplrt/exception) | [![status](https://github.com/phplrt/exception/workflows/build/badge.svg)](https://github.com/phplrt/exception/actions) |
-| [phplrt/lexer](https://github.com/phplrt/lexer)         | [![status](https://github.com/phplrt/lexer/workflows/build/badge.svg)](https://github.com/phplrt/lexer/actions)         |
-| [phplrt/parser](https://github.com/phplrt/parser)       | [![status](https://github.com/phplrt/parser/workflows/build/badge.svg)](https://github.com/phplrt/parser/actions)       |
-| [phplrt/position](https://github.com/phplrt/position)   | [![status](https://github.com/phplrt/position/workflows/build/badge.svg)](https://github.com/phplrt/position/actions)   |
-| [phplrt/source](https://github.com/phplrt/source)       | [![status](https://github.com/phplrt/source/workflows/build/badge.svg)](https://github.com/phplrt/source/actions)       |
-| [phplrt/visitor](https://github.com/phplrt/visitor)     | [![status](https://github.com/phplrt/visitor/workflows/build/badge.svg)](https://github.com/phplrt/visitor/actions)     |
 
 ## Thanks To
 
