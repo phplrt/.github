@@ -1,11 +1,9 @@
-<p align="center">
-    <a href="https://phplrt.org/">
-        <img src="https://avatars.githubusercontent.com/u/49816277?s=256&v=4" width="128" alt="Phplrt" />
-    </a>
-</p>
+<a href="https://phplrt.org/">
+    <img align="center" src="https://github.com/phplrt/.github/blob/master/assets/preview.png?raw=true">
+</a>
 
 <p align="center">
-    <a href="https://packagist.org/packages/phplrt/phplrt"><img src="http://poser.pugx.org/phplrt/phplrt/require/php?style=for-the-badge" alt="PHP 7.1+"></a>
+    <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/require/php?style=for-the-badge" alt="PHP 8.1+"></a>
     <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/version?style=for-the-badge" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/v/unstable?style=for-the-badge" alt="Latest Unstable Version"></a>
     <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/downloads?style=for-the-badge" alt="Total Downloads"></a>
