@@ -1,5 +1,5 @@
 <a href="https://phplrt.org/">
-    <img align="center" src="https://github.com/phplrt/.github/blob/master/assets/preview.png?raw=true">
+    <img align="center" src="https://github.com/phplrt/.github/blob/master/assets/preview.png?raw=true&v2">
 </a>
 
 ------
