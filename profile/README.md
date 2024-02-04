@@ -2,6 +2,8 @@
     <img align="center" src="https://github.com/phplrt/.github/blob/master/assets/preview.png?raw=true">
 </a>
 
+------
+
 <p align="center">
     <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/require/php?style=for-the-badge" alt="PHP 8.1+"></a>
     <a href="https://packagist.org/packages/phplrt/phplrt"><img src="https://poser.pugx.org/phplrt/phplrt/version?style=for-the-badge" alt="Latest Stable Version"></a>
